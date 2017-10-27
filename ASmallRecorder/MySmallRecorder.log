@@ -1,0 +1,6 @@
+[2017-10-10 14:24:25.523 12172 8440 INFO] H264Encoder: Succeeded to create an encoder.
+[2017-10-10 14:24:25.527 12172 8440 INFO] H264Encoder: Set gop size success.
+[2017-10-10 14:25:29.929 5408 9284 INFO] H264Encoder: Succeeded to create an encoder.
+[2017-10-10 14:30:44.689 12464 4576 INFO] H264Encoder: Succeeded to create an encoder.
+[2017-10-10 14:30:50.805 12464 4576 INFO] H264Encoder: Set common quality vs speed success: 4127480
+[2017-10-10 14:30:50.808 12464 4576 INFO] H264Encoder: Set gop size success.

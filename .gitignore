@@ -1,0 +1,10 @@
+.vs
+Debug/
+Release/
+*.db
+*.opendb
+ASmallRecorder/Debug
+ASmallRecorder/Release
+ASmallRecorder/*.filters
+ASmallRecorder/*.user
+
